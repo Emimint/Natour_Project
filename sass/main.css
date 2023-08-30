@@ -224,7 +224,7 @@ body {
   z-index: 1000;
 }
 .composition:hover .composition__photo:not(:hover) {
-  transform: scale(0.8);
+  transform: scale(0.95);
 }
 
 .row {
